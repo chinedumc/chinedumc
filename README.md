@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I take cool photographs; portraits and events. See for yourself (put ig link-block)
 -->
+
+
+
+
+
+
+
+
+<!--START_SECTION:activity-->
