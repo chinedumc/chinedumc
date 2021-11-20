@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/chinedumc/activity_portal/issues/1) in [chinedumc/activity_portal](https://github.com/chinedumc/activity_portal)
+<!--END_SECTION:activity-->
