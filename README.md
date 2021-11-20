@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+#### :zap: Some cool Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chinedumc&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinedumc&show_icons=true&theme=tokyonight" />
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-
+#### :zap: Recent Activities
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/chinedumc/activity_portal/issues/1) in [chinedumc/activity_portal](https://github.com/chinedumc/activity_portal)
 <!--END_SECTION:activity-->
