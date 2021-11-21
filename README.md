@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 <br />
-<br />
 
 #### Profile Visits 
 
