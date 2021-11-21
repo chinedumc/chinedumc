@@ -1,6 +1,5 @@
 ### Hello, I am Chinedum. Great to see you here! 👋
----
-
+___
 
 - 🔭 I’m currently working on a front end project using NextJS/ReactJS and Typescript 
 - 😄 Pronouns: He/Him
