@@ -1,18 +1,26 @@
 ### Hello, I am Chinedum. Great to see you here! 👋
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgriinglassis)
+---
+
+
+- 🔭 I’m currently working on a front end project using NextJS/ReactJS and Typescript 
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: chibokachinedum@gmail.com
+- ⚡ Fun fact: I take cool photographs; portraits and events. See for yourself [Instagram](https://instagram.com/misterciicii)
+
+#### Also find me at:
+- [Twitter](https://twitter.com/griinglassis)
+- [LinkedIn](linkedin.com/in/chinedum-chiboka-bb56a914)
 <!--
 **chinedumc/chinedumc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a front end project using NextJS/ReactJS and Typescript 
 - 🌱 I’m currently learning NodeJS and Android Mobile development
 - 👯 I’m looking to collaborate on open source front end projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about getting your github account to look cool like mine
-- 📫 How to reach me: chibokachinedum@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I take cool photographs; portraits and events. See for yourself (put ig link-block)
+
+
 -->
 
 
