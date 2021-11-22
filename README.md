@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 <br />
-<!--
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chinedumc.chinedumc)
--->
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=chinedumc'></p>
+<p align='center'>
+<img src='https://visitor-badge.glitch.me/badge?page_id=chinedumc.chinedumc'>
+</p>
+
+
