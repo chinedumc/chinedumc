@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 [![NextJS Badge](https://img.shields.io/badge/-NEXTJS-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FffffF)](#) 
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwind%20css-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-4A4090?style=for-the-badge&labelColor=black&logo=heroku&logoColor=4A4090)](#) 
+[![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=black&logo=go&logoColor=61DBFB)](#) 
+
 
 #### :zap: My Github stats
 <p align="center">
