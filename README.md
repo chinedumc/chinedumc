@@ -1,6 +1,6 @@
 ## Hello, I am Chinedum. Great to have you here! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a front-end web developer. I currently work with ReactJS, NextJS, Typescript. I use Python for data analytics and machine learning too. My goal is to reach a full-stack web developer status by learning some back-end technologies. 
+I'm a front-end web developer. I currently work with ReactJS, NextJS, Typescript and use Python for data analytics and machine learning too. My goal is to reach a full-stack web developer status by learning some back-end technologies. 
 
 - 🔭 I’m currently working on a front end project using NextJS/ReactJS and Typescript 
 - 👯 Goal: I’m looking to contribute more to open source
