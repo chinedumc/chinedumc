@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 
 <br />
 
-
+<!-- 
 <p align='center'>
 <img src='https://visitor-badge.glitch.me/badge?page_id=chinedumc.chinedumc'>
-</p>
+</p> -->
 
 
