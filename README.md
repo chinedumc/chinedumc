@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### Tools I can use :art:
 [![Html Badge](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&labelColor=white&logo=css3&logoColor=007acc)](#) 
 [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952b3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)](#)
 [![SASS Badge](https://img.shields.io/badge/-SASS-bf4080?style=for-the-badge&labelColor=black&logo=sass&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwind%20css-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-4A4090?style=for-the-badge&labelColor=black&logo=heroku&logoColor=4A4090)](#) 
 [![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=black&logo=go&logoColor=61DBFB)](#) 
+[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=for-the-badge&labelColor=white&logo=node.js&logoColor=026e00)](#) 
 [![StyledComponents Badge](https://img.shields.io/badge/-StyledComponents-palevioletred?style=for-the-badge&labelColor=ffffff&logo=styledcomponents&logoColor=palevioletred)](#) 
 
 
