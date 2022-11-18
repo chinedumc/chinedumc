@@ -3,7 +3,7 @@
 
 I'm a front-end web developer. I currently work with ReactJS, NextJS, Typescript with NodeJS for backend and use Python for data analytics and machine learning too.
 
-- 🔭 I’m currently working on a front end project using NextJS/ReactJS and Typescript 
+- 🔭 Currently working on a front end project using NextJS/ReactJS and Typescript 
 - 👯 Goal: I’m looking to contribute more to open source
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/-@MyEmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chibokachinedum@gmail.com)
