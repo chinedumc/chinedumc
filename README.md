@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![CSS Badge](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&labelColor=white&logo=css3&logoColor=007acc)](#) 
 [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952b3?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=7952b3)](#)
 [![SASS Badge](https://img.shields.io/badge/-SASS-bf4080?style=for-the-badge&labelColor=white&logo=sass&logoColor=bf4080)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![NextJS Badge](https://img.shields.io/badge/-NEXTJS-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FffffF)](#) 
