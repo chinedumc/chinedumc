@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=white&logo=react&logoColor=61DBFB)](#)  
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#)
 [![NextJS Badge](https://img.shields.io/badge/-NEXTJS-000000?style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#) 
-[![Tailwind Badge](https://img.shields.io/badge/-Tailwind%20css-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
+[![Tailwind Badge](https://img.shields.io/badge/-Tailwind%20css-06B6D4?style=for-the-badge&labelColor=white&logo=tailwindcss&logoColor=06B6D4)](#)
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-4A4090?style=for-the-badge&labelColor=black&logo=heroku&logoColor=4A4090)](#) 
 [![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=black&logo=go&logoColor=61DBFB)](#) 
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=for-the-badge&labelColor=white&logo=node.js&logoColor=026e00)](#) 
