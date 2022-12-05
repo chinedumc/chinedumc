@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 [![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=white&logo=go&logoColor=61DBFB)](#) 
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=for-the-badge&labelColor=white&logo=node.js&logoColor=026e00)](#) 
 [![StyledComponents Badge](https://img.shields.io/badge/-StyledComponents-palevioletred?style=for-the-badge&labelColor=ffffff&logo=styledcomponents&logoColor=palevioletred)](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=ffffff&logo=python&logoColor=3776AB)](#) 
 
 
 #### :zap: My Github stats
