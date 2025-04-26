@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 -->
 
 #### Tools I can use :art:
+[![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-512bd4?style=for-the-badge&labelColor=white&logo=dotnet&logoColor=512bd4)](#)
 [![Html Badge](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&labelColor=white&logo=html5&logoColor=e34f26)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&labelColor=white&logo=css3&logoColor=007acc)](#) 
 [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952b3?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=7952b3)](#)
