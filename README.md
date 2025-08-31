@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#)
 [![NextJS Badge](https://img.shields.io/badge/-NEXTJS-000000?style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#) 
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwind%20css-06B6D4?style=for-the-badge&labelColor=white&logo=tailwindcss&logoColor=06B6D4)](#)
-
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=for-the-badge&labelColor=white&logo=node.js&logoColor=026e00)](#) 
 [![StyledComponents Badge](https://img.shields.io/badge/-StyledComponents-palevioletred?style=for-the-badge&labelColor=ffffff&logo=styledcomponents&logoColor=palevioletred)](#) 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=ffffff&logo=python&logoColor=3776AB)](#) 
